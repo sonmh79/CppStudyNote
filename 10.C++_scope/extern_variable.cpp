@@ -1,0 +1,1 @@
+int int_extern_linkage = 1;
